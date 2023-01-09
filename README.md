@@ -4,5 +4,6 @@
 
 Line follower robot based on the PIC16F887, includes five IR sensor for line detection. The code was written for CCS C Compiler.
 
+---
 More information:  
 [Robot Seguidor de Línea [Spanish]](https://palmacas.com/robot-seguidor-de-linea/)
